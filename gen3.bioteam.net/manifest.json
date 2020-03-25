@@ -24,7 +24,7 @@
     "global": {
       "environment": "bioteam-commons",
       "hostname": "gen3.bioteam.net",
-      "revproxy_arn": "arn:aws:acm:us-east-1:236714345101:certificate/ec368910-95e7-4f7f-bdd3-020a2f51bc94",
+      "revproxy_arn": "arn:aws:acm:us-east-1:559049044428:certificate/10d6f853-5013-4aa4-8320-df4b87d651d3",
       "dictionary_url": "https://cdis-gen3-bioteam-config.s3.amazonaws.com/dictionary/schema.json",
       "portal_app": "gitops",
       "kube_bucket": "kube-bioteam-commons-gen3",
