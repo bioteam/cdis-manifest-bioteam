@@ -31,18 +31,18 @@
     "projectDetails": "boardCounts"
   },
   "components": {
-    "appName": "COVID-19 Data Commons",
+    "appName": "BioTeam Data Commons",
     "index": {
       "introduction": {
-        "heading": "COVID-19 Data Commons",
-        "text": "The COVID-19 Data Commons supports the management, analysis and sharing of COVID19 data",
+        "heading": "BioTeam Data Commons",
+        "text": "The BioTeam Data Commons supports the management, analysis and sharing of BioTeam data",
         "link": "/submission"
       },
       "buttons": [
         {
           "name": "Define Data Field",
           "icon": "data-field-define",
-          "body": "The COVID-19 Commons defines the data in a general way. Please study the dictionary before you start browsing.",
+          "body": "The BioTeam Commons defines the data in a general way. Please study the dictionary before you start browsing.",
           "link": "/DD",
           "label": "Learn more"
         },
@@ -101,7 +101,7 @@
       "items": [
         {
           "link": "/",
-          "name": "COVID19 Commons Home"
+          "name": "BioTeam Data Commons"
         },
         {
           "icon": "upload",
@@ -117,7 +117,7 @@
     "login": {
       "title": "BioTeam Data Commons",
       "subTitle": "Explore, Analyze, and Share Data",
-      "text": "TODO: Write text",
+      "text": "The BioTeam Data Commons supports the management, analysis and sharing of BioTeam data",
       "contact": "If you have any questions about access or the registration process, please contact ",
       "email": "ari@bioteam.net",
       "image": "/../../../../custom/sponsors/gitops-sponsors/covid_gene"
